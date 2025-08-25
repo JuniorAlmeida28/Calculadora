@@ -10,3 +10,6 @@
 - Faz subtração;
 - Igual;
 - Possibilidade de números com vírgula.
+
+
+  ![Calculadora](https://github.com/user-attachments/assets/b0364b4a-2b9e-49f0-86a2-9891b6767789)
